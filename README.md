@@ -1,6 +1,6 @@
-# World-Happiness-Record
+# World-Happiness-Report
 ---
-An analysis on the world happiness record in 2015 and 2016.
+An analysis on the world happiness report in 2015 and 2016.
 Click <a href="https://www.kaggle.com/unsdsn/world-happiness"> here </a> to see the dataset!
 
 **Used Technologies**
