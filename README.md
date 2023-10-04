@@ -7,6 +7,7 @@ Click <a href="https://www.kaggle.com/unsdsn/world-happiness"> here </a> to see 
 **Used Technologies**
 - Python (Seaborn, Matplotlib, Pandas, Scikit-learn)
 
+
 **Applied Machine Learning Algorithms:**
   - Linear Regression
   - K-Nearest-Neighbors 
